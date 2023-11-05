@@ -436,11 +436,11 @@
 3,0,2,{Name:"minecraft:dirt"}
 3,0,3,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 3,0,4,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
-3,0,5,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+3,0,5,{Name:"minecraft:dirt"}
 3,0,6,{Name:"minecraft:dirt"}
 3,0,7,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 3,0,8,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
-3,0,9,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+3,0,9,{Name:"minecraft:dirt"}
 3,0,10,{Name:"minecraft:dirt"}
 3,0,11,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 3,0,12,{Name:"minecraft:dirt"}
@@ -578,7 +578,7 @@
 4,0,0,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 4,0,1,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 4,0,2,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
-4,0,3,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+4,0,3,{Name:"minecraft:dirt"}
 4,0,4,{Name:"minecraft:dirt"}
 4,0,5,{Name:"minecraft:dirt"}
 4,0,6,{Name:"minecraft:dirt"}
@@ -728,7 +728,7 @@
 5,0,6,{Name:"minecraft:dirt"}
 5,0,7,{Name:"minecraft:dirt"}
 5,0,8,{Name:"minecraft:dirt"}
-5,0,9,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+5,0,9,{Name:"minecraft:dirt"}
 5,0,10,{Name:"minecraft:dirt"}
 5,0,11,{Name:"minecraft:dirt"}
 5,0,12,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
@@ -873,7 +873,7 @@
 6,0,7,{Name:"minecraft:dirt"}
 6,0,8,{Name:"minecraft:dirt"}
 6,0,9,{Name:"minecraft:dirt"}
-6,0,10,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+6,0,10,{Name:"minecraft:dirt"}
 6,0,11,{Name:"minecraft:dirt"}
 6,0,12,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 6,0,13,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
@@ -1042,7 +1042,7 @@
 7,2,0,{Name:"minecraft:air"}
 7,2,1,{Name:"minecraft:air"}
 7,2,2,{Name:"minecraft:air"}
-7,2,3,{Name:"minecraft:air"}
+7,2,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"lower",hinge:"right",open:"false",powered:"false"}}
 7,2,4,{Name:"minecraft:air"}
 7,2,5,{Name:"minecraft:air"}
 7,2,6,{Name:"minecraft:air"}
@@ -1058,7 +1058,7 @@
 7,3,0,{Name:"minecraft:air"}
 7,3,1,{Name:"minecraft:air"}
 7,3,2,{Name:"minecraft:air"}
-7,3,3,{Name:"minecraft:air"}
+7,3,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"upper",hinge:"right",open:"false",powered:"false"}}
 7,3,4,{Name:"minecraft:air"}
 7,3,5,{Name:"minecraft:air"}
 7,3,6,{Name:"minecraft:air"}
@@ -1186,7 +1186,7 @@
 8,2,0,{Name:"minecraft:air"}
 8,2,1,{Name:"minecraft:air"}
 8,2,2,{Name:"minecraft:air"}
-8,2,3,{Name:"minecraft:air"}
+8,2,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"lower",hinge:"left",open:"false",powered:"false"}}
 8,2,4,{Name:"minecraft:air"}
 8,2,5,{Name:"minecraft:air"}
 8,2,6,{Name:"minecraft:air"}
@@ -1202,7 +1202,7 @@
 8,3,0,{Name:"minecraft:air"}
 8,3,1,{Name:"minecraft:air"}
 8,3,2,{Name:"minecraft:air"}
-8,3,3,{Name:"minecraft:air"}
+8,3,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"upper",hinge:"left",open:"false",powered:"false"}}
 8,3,4,{Name:"minecraft:air"}
 8,3,5,{Name:"minecraft:air"}
 8,3,6,{Name:"minecraft:air"}
