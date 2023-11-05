@@ -1344,7 +1344,7 @@
 7,8,16,{Name:"minecraft:air"}
 7,9,0,{Name:"minecraft:air"}
 7,9,1,{Name:"minecraft:air"}
-7,9,2,{Name:"minecraft:air"}
+7,9,2,{Name:"minecraft:cobblestone_slab",Properties:{type:"bottom",waterlogged:"false"}}
 7,9,3,{Name:"minecraft:air"}
 7,9,4,{Name:"minecraft:air"}
 7,9,5,{Name:"minecraft:air"}
@@ -1354,7 +1354,7 @@
 7,9,9,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 7,9,10,{Name:"minecraft:air"}
 7,9,11,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
-7,9,12,{Name:"minecraft:air"}
+7,9,12,{Name:"minecraft:cobblestone_slab",Properties:{type:"bottom",waterlogged:"false"}}
 7,9,13,{Name:"minecraft:air"}
 7,9,14,{Name:"minecraft:air"}
 7,9,15,{Name:"minecraft:air"}
@@ -1488,7 +1488,7 @@
 8,7,7,{Name:"minecraft:oxidized_cut_copper"}
 8,7,8,{Name:"minecraft:oxidized_cut_copper"}
 8,7,9,{Name:"minecraft:stone_bricks"}
-8,7,10,{Name:"minecraft:hay_block",Properties:{axis:"y"}}
+8,7,10,{Name:"minecraft:air"}
 8,7,11,{Name:"minecraft:stone_bricks"}
 8,7,12,{Name:"minecraft:air"}
 8,7,13,{Name:"minecraft:air"}
@@ -1505,7 +1505,7 @@
 8,8,7,{Name:"minecraft:waxed_oxidized_cut_copper_slab",Properties:{type:"bottom",waterlogged:"false"}}
 8,8,8,{Name:"minecraft:waxed_oxidized_cut_copper_slab",Properties:{type:"bottom",waterlogged:"false"}}
 8,8,9,{Name:"minecraft:stone_bricks"}
-8,8,10,{Name:"minecraft:campfire",Properties:{facing:"east",lit:"true",signal_fire:"true",waterlogged:"false"}}
+8,8,10,{Name:"minecraft:campfire",Properties:{facing:"east",lit:"true",signal_fire:"false",waterlogged:"false"}}
 8,8,11,{Name:"minecraft:stone_bricks"}
 8,8,12,{Name:"minecraft:cobblestone"}
 8,8,13,{Name:"minecraft:air"}
@@ -1514,7 +1514,7 @@
 8,8,16,{Name:"minecraft:air"}
 8,9,0,{Name:"minecraft:air"}
 8,9,1,{Name:"minecraft:air"}
-8,9,2,{Name:"minecraft:air"}
+8,9,2,{Name:"minecraft:cobblestone_slab",Properties:{type:"bottom",waterlogged:"false"}}
 8,9,3,{Name:"minecraft:air"}
 8,9,4,{Name:"minecraft:air"}
 8,9,5,{Name:"minecraft:air"}
@@ -1524,7 +1524,7 @@
 8,9,9,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 8,9,10,{Name:"minecraft:air"}
 8,9,11,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
-8,9,12,{Name:"minecraft:air"}
+8,9,12,{Name:"minecraft:cobblestone_slab",Properties:{type:"bottom",waterlogged:"false"}}
 8,9,13,{Name:"minecraft:air"}
 8,9,14,{Name:"minecraft:air"}
 8,9,15,{Name:"minecraft:air"}
