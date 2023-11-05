@@ -562,7 +562,7 @@
 3,2,16,{Name:"minecraft:air"}
 3,3,0,{Name:"minecraft:air"}
 3,3,1,{Name:"minecraft:air"}
-3,3,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"y"}}
+3,3,2,{Name:"minecraft:cobblestone"}
 3,3,3,{Name:"minecraft:air"}
 3,3,4,{Name:"minecraft:air"}
 3,3,5,{Name:"minecraft:air"}
@@ -579,7 +579,7 @@
 3,3,16,{Name:"minecraft:air"}
 3,4,0,{Name:"minecraft:air"}
 3,4,1,{Name:"minecraft:air"}
-3,4,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
+3,4,2,{Name:"minecraft:cobblestone"}
 3,4,3,{Name:"minecraft:oxidized_cut_copper"}
 3,4,4,{Name:"minecraft:oxidized_cut_copper"}
 3,4,5,{Name:"minecraft:oxidized_cut_copper"}
@@ -716,7 +716,7 @@
 4,2,0,{Name:"minecraft:air"}
 4,2,1,{Name:"minecraft:air"}
 4,2,2,{Name:"minecraft:air"}
-4,2,3,{Name:"minecraft:stone"}
+4,2,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"z"}}
 4,2,4,{Name:"minecraft:oak_planks"}
 4,2,5,{Name:"minecraft:oak_planks"}
 4,2,6,{Name:"minecraft:oak_planks"}
@@ -733,7 +733,7 @@
 4,3,0,{Name:"minecraft:air"}
 4,3,1,{Name:"minecraft:air"}
 4,3,2,{Name:"minecraft:air"}
-4,3,3,{Name:"minecraft:stone"}
+4,3,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 4,3,4,{Name:"minecraft:oak_planks"}
 4,3,5,{Name:"minecraft:oak_planks"}
 4,3,6,{Name:"minecraft:oak_planks"}
@@ -749,7 +749,7 @@
 4,3,16,{Name:"minecraft:air"}
 4,4,0,{Name:"minecraft:air"}
 4,4,1,{Name:"minecraft:air"}
-4,4,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
+4,4,2,{Name:"minecraft:cobblestone"}
 4,4,3,{Name:"minecraft:stone"}
 4,4,4,{Name:"minecraft:oak_planks"}
 4,4,5,{Name:"minecraft:oak_planks"}
@@ -766,7 +766,7 @@
 4,4,16,{Name:"minecraft:air"}
 4,5,0,{Name:"minecraft:air"}
 4,5,1,{Name:"minecraft:air"}
-4,5,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
+4,5,2,{Name:"minecraft:cobblestone"}
 4,5,3,{Name:"minecraft:oxidized_cut_copper"}
 4,5,4,{Name:"minecraft:oxidized_cut_copper"}
 4,5,5,{Name:"minecraft:oxidized_cut_copper"}
@@ -783,7 +783,7 @@
 4,5,16,{Name:"minecraft:air"}
 4,6,0,{Name:"minecraft:air"}
 4,6,1,{Name:"minecraft:air"}
-4,6,2,{Name:"minecraft:air"}
+4,6,2,{Name:"minecraft:cobblestone"}
 4,6,3,{Name:"minecraft:air"}
 4,6,4,{Name:"minecraft:air"}
 4,6,5,{Name:"minecraft:air"}
@@ -886,7 +886,7 @@
 5,2,0,{Name:"minecraft:air"}
 5,2,1,{Name:"minecraft:air"}
 5,2,2,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"none",south:"low",up:"true",waterlogged:"false",west:"none"}}
-5,2,3,{Name:"minecraft:stone"}
+5,2,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 5,2,4,{Name:"minecraft:air"}
 5,2,5,{Name:"minecraft:air"}
 5,2,6,{Name:"minecraft:air"}
@@ -903,7 +903,7 @@
 5,3,0,{Name:"minecraft:air"}
 5,3,1,{Name:"minecraft:air"}
 5,3,2,{Name:"minecraft:lantern",Properties:{hanging:"false",waterlogged:"false"}}
-5,3,3,{Name:"minecraft:stone"}
+5,3,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 5,3,4,{Name:"minecraft:air"}
 5,3,5,{Name:"minecraft:air"}
 5,3,6,{Name:"minecraft:air"}
@@ -920,7 +920,7 @@
 5,4,0,{Name:"minecraft:air"}
 5,4,1,{Name:"minecraft:air"}
 5,4,2,{Name:"minecraft:air"}
-5,4,3,{Name:"minecraft:stone"}
+5,4,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 5,4,4,{Name:"minecraft:air"}
 5,4,5,{Name:"minecraft:air"}
 5,4,6,{Name:"minecraft:air"}
@@ -936,8 +936,8 @@
 5,4,16,{Name:"minecraft:air"}
 5,5,0,{Name:"minecraft:air"}
 5,5,1,{Name:"minecraft:air"}
-5,5,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-5,5,3,{Name:"minecraft:stone"}
+5,5,2,{Name:"minecraft:air"}
+5,5,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 5,5,4,{Name:"minecraft:air"}
 5,5,5,{Name:"minecraft:air"}
 5,5,6,{Name:"minecraft:air"}
@@ -953,7 +953,7 @@
 5,5,16,{Name:"minecraft:air"}
 5,6,0,{Name:"minecraft:air"}
 5,6,1,{Name:"minecraft:air"}
-5,6,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
+5,6,2,{Name:"minecraft:cobblestone"}
 5,6,3,{Name:"minecraft:oxidized_cut_copper"}
 5,6,4,{Name:"minecraft:oxidized_cut_copper"}
 5,6,5,{Name:"minecraft:oxidized_cut_copper"}
@@ -970,7 +970,7 @@
 5,6,16,{Name:"minecraft:air"}
 5,7,0,{Name:"minecraft:air"}
 5,7,1,{Name:"minecraft:air"}
-5,7,2,{Name:"minecraft:air"}
+5,7,2,{Name:"minecraft:cobblestone"}
 5,7,3,{Name:"minecraft:air"}
 5,7,4,{Name:"minecraft:air"}
 5,7,5,{Name:"minecraft:air"}
@@ -1056,7 +1056,7 @@
 6,2,0,{Name:"minecraft:iron_bars",Properties:{east:"false",north:"false",south:"true",waterlogged:"false",west:"false"}}
 6,2,1,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"low",south:"none",up:"true",waterlogged:"false",west:"none"}}
 6,2,2,{Name:"minecraft:anvil",Properties:{facing:"west"}}
-6,2,3,{Name:"minecraft:stone"}
+6,2,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 6,2,4,{Name:"minecraft:air"}
 6,2,5,{Name:"minecraft:air"}
 6,2,6,{Name:"minecraft:air"}
@@ -1073,7 +1073,7 @@
 6,3,0,{Name:"minecraft:air"}
 6,3,1,{Name:"minecraft:air"}
 6,3,2,{Name:"minecraft:air"}
-6,3,3,{Name:"minecraft:stone"}
+6,3,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 6,3,4,{Name:"minecraft:air"}
 6,3,5,{Name:"minecraft:air"}
 6,3,6,{Name:"minecraft:air"}
@@ -1090,7 +1090,7 @@
 6,4,0,{Name:"minecraft:air"}
 6,4,1,{Name:"minecraft:air"}
 6,4,2,{Name:"minecraft:air"}
-6,4,3,{Name:"minecraft:stone"}
+6,4,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 6,4,4,{Name:"minecraft:air"}
 6,4,5,{Name:"minecraft:air"}
 6,4,6,{Name:"minecraft:air"}
@@ -1106,8 +1106,8 @@
 6,4,16,{Name:"minecraft:air"}
 6,5,0,{Name:"minecraft:air"}
 6,5,1,{Name:"minecraft:air"}
-6,5,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-6,5,3,{Name:"minecraft:stone"}
+6,5,2,{Name:"minecraft:air"}
+6,5,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 6,5,4,{Name:"minecraft:air"}
 6,5,5,{Name:"minecraft:air"}
 6,5,6,{Name:"minecraft:air"}
@@ -1123,8 +1123,8 @@
 6,5,16,{Name:"minecraft:air"}
 6,6,0,{Name:"minecraft:air"}
 6,6,1,{Name:"minecraft:air"}
-6,6,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-6,6,3,{Name:"minecraft:oxidized_cut_copper"}
+6,6,2,{Name:"minecraft:air"}
+6,6,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 6,6,4,{Name:"minecraft:oxidized_cut_copper"}
 6,6,5,{Name:"minecraft:oxidized_cut_copper"}
 6,6,6,{Name:"minecraft:oxidized_cut_copper"}
@@ -1140,7 +1140,7 @@
 6,6,16,{Name:"minecraft:air"}
 6,7,0,{Name:"minecraft:air"}
 6,7,1,{Name:"minecraft:air"}
-6,7,2,{Name:"minecraft:air"}
+6,7,2,{Name:"minecraft:cobblestone"}
 6,7,3,{Name:"minecraft:air"}
 6,7,4,{Name:"minecraft:air"}
 6,7,5,{Name:"minecraft:air"}
@@ -1157,7 +1157,7 @@
 6,7,16,{Name:"minecraft:air"}
 6,8,0,{Name:"minecraft:air"}
 6,8,1,{Name:"minecraft:air"}
-6,8,2,{Name:"minecraft:air"}
+6,8,2,{Name:"minecraft:cobblestone"}
 6,8,3,{Name:"minecraft:air"}
 6,8,4,{Name:"minecraft:air"}
 6,8,5,{Name:"minecraft:air"}
@@ -1226,7 +1226,7 @@
 7,2,0,{Name:"minecraft:air"}
 7,2,1,{Name:"minecraft:air"}
 7,2,2,{Name:"minecraft:air"}
-7,2,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"lower",hinge:"right",open:"true",powered:"false"}}
+7,2,3,{Name:"minecraft:dark_oak_door",Properties:{facing:"south",half:"lower",hinge:"right",open:"false",powered:"false"}}
 7,2,4,{Name:"minecraft:air"}
 7,2,5,{Name:"minecraft:air"}
 7,2,6,{Name:"minecraft:air"}
@@ -1243,7 +1243,7 @@
 7,3,0,{Name:"minecraft:air"}
 7,3,1,{Name:"minecraft:air"}
 7,3,2,{Name:"minecraft:air"}
-7,3,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"upper",hinge:"right",open:"true",powered:"false"}}
+7,3,3,{Name:"minecraft:dark_oak_door",Properties:{facing:"south",half:"upper",hinge:"right",open:"false",powered:"false"}}
 7,3,4,{Name:"minecraft:air"}
 7,3,5,{Name:"minecraft:air"}
 7,3,6,{Name:"minecraft:air"}
@@ -1260,7 +1260,7 @@
 7,4,0,{Name:"minecraft:air"}
 7,4,1,{Name:"minecraft:air"}
 7,4,2,{Name:"minecraft:air"}
-7,4,3,{Name:"minecraft:stone"}
+7,4,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 7,4,4,{Name:"minecraft:air"}
 7,4,5,{Name:"minecraft:air"}
 7,4,6,{Name:"minecraft:air"}
@@ -1277,7 +1277,7 @@
 7,5,0,{Name:"minecraft:air"}
 7,5,1,{Name:"minecraft:air"}
 7,5,2,{Name:"minecraft:air"}
-7,5,3,{Name:"minecraft:stone"}
+7,5,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 7,5,4,{Name:"minecraft:air"}
 7,5,5,{Name:"minecraft:air"}
 7,5,6,{Name:"minecraft:air"}
@@ -1293,8 +1293,8 @@
 7,5,16,{Name:"minecraft:air"}
 7,6,0,{Name:"minecraft:air"}
 7,6,1,{Name:"minecraft:air"}
-7,6,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-7,6,3,{Name:"minecraft:oxidized_cut_copper"}
+7,6,2,{Name:"minecraft:air"}
+7,6,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 7,6,4,{Name:"minecraft:oxidized_cut_copper"}
 7,6,5,{Name:"minecraft:oxidized_cut_copper"}
 7,6,6,{Name:"minecraft:oxidized_cut_copper"}
@@ -1311,7 +1311,7 @@
 7,7,0,{Name:"minecraft:air"}
 7,7,1,{Name:"minecraft:air"}
 7,7,2,{Name:"minecraft:air"}
-7,7,3,{Name:"minecraft:air"}
+7,7,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 7,7,4,{Name:"minecraft:air"}
 7,7,5,{Name:"minecraft:air"}
 7,7,6,{Name:"minecraft:air"}
@@ -1327,7 +1327,7 @@
 7,7,16,{Name:"minecraft:air"}
 7,8,0,{Name:"minecraft:air"}
 7,8,1,{Name:"minecraft:air"}
-7,8,2,{Name:"minecraft:air"}
+7,8,2,{Name:"minecraft:cobblestone"}
 7,8,3,{Name:"minecraft:air"}
 7,8,4,{Name:"minecraft:air"}
 7,8,5,{Name:"minecraft:air"}
@@ -1396,7 +1396,7 @@
 8,2,0,{Name:"minecraft:air"}
 8,2,1,{Name:"minecraft:air"}
 8,2,2,{Name:"minecraft:air"}
-8,2,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"lower",hinge:"left",open:"true",powered:"false"}}
+8,2,3,{Name:"minecraft:dark_oak_door",Properties:{facing:"south",half:"lower",hinge:"left",open:"false",powered:"false"}}
 8,2,4,{Name:"minecraft:air"}
 8,2,5,{Name:"minecraft:air"}
 8,2,6,{Name:"minecraft:air"}
@@ -1413,7 +1413,7 @@
 8,3,0,{Name:"minecraft:air"}
 8,3,1,{Name:"minecraft:air"}
 8,3,2,{Name:"minecraft:air"}
-8,3,3,{Name:"minecraft:spruce_door",Properties:{facing:"south",half:"upper",hinge:"left",open:"true",powered:"false"}}
+8,3,3,{Name:"minecraft:dark_oak_door",Properties:{facing:"south",half:"upper",hinge:"left",open:"false",powered:"false"}}
 8,3,4,{Name:"minecraft:air"}
 8,3,5,{Name:"minecraft:air"}
 8,3,6,{Name:"minecraft:air"}
@@ -1430,7 +1430,7 @@
 8,4,0,{Name:"minecraft:air"}
 8,4,1,{Name:"minecraft:air"}
 8,4,2,{Name:"minecraft:air"}
-8,4,3,{Name:"minecraft:stone"}
+8,4,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 8,4,4,{Name:"minecraft:air"}
 8,4,5,{Name:"minecraft:air"}
 8,4,6,{Name:"minecraft:air"}
@@ -1447,7 +1447,7 @@
 8,5,0,{Name:"minecraft:air"}
 8,5,1,{Name:"minecraft:air"}
 8,5,2,{Name:"minecraft:air"}
-8,5,3,{Name:"minecraft:stone"}
+8,5,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 8,5,4,{Name:"minecraft:air"}
 8,5,5,{Name:"minecraft:air"}
 8,5,6,{Name:"minecraft:air"}
@@ -1463,8 +1463,8 @@
 8,5,16,{Name:"minecraft:air"}
 8,6,0,{Name:"minecraft:air"}
 8,6,1,{Name:"minecraft:air"}
-8,6,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-8,6,3,{Name:"minecraft:oxidized_cut_copper"}
+8,6,2,{Name:"minecraft:air"}
+8,6,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 8,6,4,{Name:"minecraft:oxidized_cut_copper"}
 8,6,5,{Name:"minecraft:oxidized_cut_copper"}
 8,6,6,{Name:"minecraft:oxidized_cut_copper"}
@@ -1481,7 +1481,7 @@
 8,7,0,{Name:"minecraft:air"}
 8,7,1,{Name:"minecraft:air"}
 8,7,2,{Name:"minecraft:air"}
-8,7,3,{Name:"minecraft:air"}
+8,7,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 8,7,4,{Name:"minecraft:air"}
 8,7,5,{Name:"minecraft:air"}
 8,7,6,{Name:"minecraft:air"}
@@ -1497,7 +1497,7 @@
 8,7,16,{Name:"minecraft:air"}
 8,8,0,{Name:"minecraft:air"}
 8,8,1,{Name:"minecraft:air"}
-8,8,2,{Name:"minecraft:air"}
+8,8,2,{Name:"minecraft:cobblestone"}
 8,8,3,{Name:"minecraft:air"}
 8,8,4,{Name:"minecraft:air"}
 8,8,5,{Name:"minecraft:air"}
@@ -1566,7 +1566,7 @@
 9,2,0,{Name:"minecraft:iron_bars",Properties:{east:"false",north:"false",south:"true",waterlogged:"false",west:"false"}}
 9,2,1,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"low",south:"none",up:"true",waterlogged:"false",west:"none"}}
 9,2,2,{Name:"minecraft:air"}
-9,2,3,{Name:"minecraft:stone"}
+9,2,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 9,2,4,{Name:"minecraft:air"}
 9,2,5,{Name:"minecraft:air"}
 9,2,6,{Name:"minecraft:air"}
@@ -1583,7 +1583,7 @@
 9,3,0,{Name:"minecraft:air"}
 9,3,1,{Name:"minecraft:air"}
 9,3,2,{Name:"minecraft:air"}
-9,3,3,{Name:"minecraft:stone"}
+9,3,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 9,3,4,{Name:"minecraft:air"}
 9,3,5,{Name:"minecraft:air"}
 9,3,6,{Name:"minecraft:air"}
@@ -1600,7 +1600,7 @@
 9,4,0,{Name:"minecraft:air"}
 9,4,1,{Name:"minecraft:air"}
 9,4,2,{Name:"minecraft:air"}
-9,4,3,{Name:"minecraft:stone"}
+9,4,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 9,4,4,{Name:"minecraft:air"}
 9,4,5,{Name:"minecraft:air"}
 9,4,6,{Name:"minecraft:air"}
@@ -1616,8 +1616,8 @@
 9,4,16,{Name:"minecraft:air"}
 9,5,0,{Name:"minecraft:air"}
 9,5,1,{Name:"minecraft:air"}
-9,5,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-9,5,3,{Name:"minecraft:stone"}
+9,5,2,{Name:"minecraft:air"}
+9,5,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 9,5,4,{Name:"minecraft:air"}
 9,5,5,{Name:"minecraft:air"}
 9,5,6,{Name:"minecraft:air"}
@@ -1633,8 +1633,8 @@
 9,5,16,{Name:"minecraft:air"}
 9,6,0,{Name:"minecraft:air"}
 9,6,1,{Name:"minecraft:air"}
-9,6,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-9,6,3,{Name:"minecraft:oxidized_cut_copper"}
+9,6,2,{Name:"minecraft:air"}
+9,6,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 9,6,4,{Name:"minecraft:oxidized_cut_copper"}
 9,6,5,{Name:"minecraft:oxidized_cut_copper"}
 9,6,6,{Name:"minecraft:oxidized_cut_copper"}
@@ -1650,7 +1650,7 @@
 9,6,16,{Name:"minecraft:air"}
 9,7,0,{Name:"minecraft:air"}
 9,7,1,{Name:"minecraft:air"}
-9,7,2,{Name:"minecraft:air"}
+9,7,2,{Name:"minecraft:cobblestone"}
 9,7,3,{Name:"minecraft:air"}
 9,7,4,{Name:"minecraft:air"}
 9,7,5,{Name:"minecraft:air"}
@@ -1667,7 +1667,7 @@
 9,7,16,{Name:"minecraft:air"}
 9,8,0,{Name:"minecraft:air"}
 9,8,1,{Name:"minecraft:air"}
-9,8,2,{Name:"minecraft:air"}
+9,8,2,{Name:"minecraft:cobblestone"}
 9,8,3,{Name:"minecraft:air"}
 9,8,4,{Name:"minecraft:air"}
 9,8,5,{Name:"minecraft:air"}
@@ -1736,7 +1736,7 @@
 10,2,0,{Name:"minecraft:air"}
 10,2,1,{Name:"minecraft:air"}
 10,2,2,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"none",south:"low",up:"true",waterlogged:"false",west:"none"}}
-10,2,3,{Name:"minecraft:stone"}
+10,2,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 10,2,4,{Name:"minecraft:air"}
 10,2,5,{Name:"minecraft:air"}
 10,2,6,{Name:"minecraft:air"}
@@ -1753,7 +1753,7 @@
 10,3,0,{Name:"minecraft:air"}
 10,3,1,{Name:"minecraft:air"}
 10,3,2,{Name:"minecraft:lantern",Properties:{hanging:"false",waterlogged:"false"}}
-10,3,3,{Name:"minecraft:stone"}
+10,3,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 10,3,4,{Name:"minecraft:air"}
 10,3,5,{Name:"minecraft:air"}
 10,3,6,{Name:"minecraft:air"}
@@ -1770,7 +1770,7 @@
 10,4,0,{Name:"minecraft:air"}
 10,4,1,{Name:"minecraft:air"}
 10,4,2,{Name:"minecraft:air"}
-10,4,3,{Name:"minecraft:stone"}
+10,4,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 10,4,4,{Name:"minecraft:air"}
 10,4,5,{Name:"minecraft:air"}
 10,4,6,{Name:"minecraft:air"}
@@ -1786,8 +1786,8 @@
 10,4,16,{Name:"minecraft:air"}
 10,5,0,{Name:"minecraft:air"}
 10,5,1,{Name:"minecraft:air"}
-10,5,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-10,5,3,{Name:"minecraft:stone"}
+10,5,2,{Name:"minecraft:air"}
+10,5,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 10,5,4,{Name:"minecraft:air"}
 10,5,5,{Name:"minecraft:air"}
 10,5,6,{Name:"minecraft:air"}
@@ -1803,7 +1803,7 @@
 10,5,16,{Name:"minecraft:air"}
 10,6,0,{Name:"minecraft:air"}
 10,6,1,{Name:"minecraft:air"}
-10,6,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
+10,6,2,{Name:"minecraft:cobblestone"}
 10,6,3,{Name:"minecraft:oxidized_cut_copper"}
 10,6,4,{Name:"minecraft:oxidized_cut_copper"}
 10,6,5,{Name:"minecraft:oxidized_cut_copper"}
@@ -1820,7 +1820,7 @@
 10,6,16,{Name:"minecraft:air"}
 10,7,0,{Name:"minecraft:air"}
 10,7,1,{Name:"minecraft:air"}
-10,7,2,{Name:"minecraft:air"}
+10,7,2,{Name:"minecraft:cobblestone"}
 10,7,3,{Name:"minecraft:air"}
 10,7,4,{Name:"minecraft:air"}
 10,7,5,{Name:"minecraft:air"}
@@ -1906,7 +1906,7 @@
 11,2,0,{Name:"minecraft:air"}
 11,2,1,{Name:"minecraft:air"}
 11,2,2,{Name:"minecraft:air"}
-11,2,3,{Name:"minecraft:stone"}
+11,2,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 11,2,4,{Name:"minecraft:oak_planks"}
 11,2,5,{Name:"minecraft:oak_planks"}
 11,2,6,{Name:"minecraft:oak_planks"}
@@ -1923,7 +1923,7 @@
 11,3,0,{Name:"minecraft:air"}
 11,3,1,{Name:"minecraft:air"}
 11,3,2,{Name:"minecraft:air"}
-11,3,3,{Name:"minecraft:stone"}
+11,3,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 11,3,4,{Name:"minecraft:oak_planks"}
 11,3,5,{Name:"minecraft:oak_planks"}
 11,3,6,{Name:"minecraft:oak_planks"}
@@ -1939,8 +1939,8 @@
 11,3,16,{Name:"minecraft:air"}
 11,4,0,{Name:"minecraft:air"}
 11,4,1,{Name:"minecraft:air"}
-11,4,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-11,4,3,{Name:"minecraft:stone"}
+11,4,2,{Name:"minecraft:cobblestone"}
+11,4,3,{Name:"minecraft:stripped_oak_wood",Properties:{axis:"y"}}
 11,4,4,{Name:"minecraft:oak_planks"}
 11,4,5,{Name:"minecraft:oak_planks"}
 11,4,6,{Name:"minecraft:oak_planks"}
@@ -1956,8 +1956,8 @@
 11,4,16,{Name:"minecraft:air"}
 11,5,0,{Name:"minecraft:air"}
 11,5,1,{Name:"minecraft:air"}
-11,5,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
-11,5,3,{Name:"minecraft:dark_oak_wood",Properties:{axis:"y"}}
+11,5,2,{Name:"minecraft:cobblestone"}
+11,5,3,{Name:"minecraft:air"}
 11,5,4,{Name:"minecraft:oxidized_cut_copper"}
 11,5,5,{Name:"minecraft:oxidized_cut_copper"}
 11,5,6,{Name:"minecraft:oxidized_cut_copper"}
@@ -1973,7 +1973,7 @@
 11,5,16,{Name:"minecraft:air"}
 11,6,0,{Name:"minecraft:air"}
 11,6,1,{Name:"minecraft:air"}
-11,6,2,{Name:"minecraft:air"}
+11,6,2,{Name:"minecraft:cobblestone"}
 11,6,3,{Name:"minecraft:air"}
 11,6,4,{Name:"minecraft:air"}
 11,6,5,{Name:"minecraft:air"}
@@ -2092,7 +2092,7 @@
 12,2,16,{Name:"minecraft:air"}
 12,3,0,{Name:"minecraft:air"}
 12,3,1,{Name:"minecraft:air"}
-12,3,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
+12,3,2,{Name:"minecraft:cobblestone"}
 12,3,3,{Name:"minecraft:dark_oak_wood",Properties:{axis:"y"}}
 12,3,4,{Name:"minecraft:air"}
 12,3,5,{Name:"minecraft:air"}
@@ -2109,7 +2109,7 @@
 12,3,16,{Name:"minecraft:air"}
 12,4,0,{Name:"minecraft:air"}
 12,4,1,{Name:"minecraft:air"}
-12,4,2,{Name:"minecraft:dark_oak_wood",Properties:{axis:"z"}}
+12,4,2,{Name:"minecraft:cobblestone"}
 12,4,3,{Name:"minecraft:oxidized_cut_copper"}
 12,4,4,{Name:"minecraft:oxidized_cut_copper"}
 12,4,5,{Name:"minecraft:oxidized_cut_copper"}
