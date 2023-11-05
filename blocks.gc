@@ -434,11 +434,11 @@
 3,0,0,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 3,0,1,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 3,0,2,{Name:"minecraft:dirt"}
-3,0,3,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+3,0,3,{Name:"minecraft:dirt"}
 3,0,4,{Name:"minecraft:dirt"}
 3,0,5,{Name:"minecraft:dirt"}
 3,0,6,{Name:"minecraft:dirt"}
-3,0,7,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+3,0,7,{Name:"minecraft:dirt"}
 3,0,8,{Name:"minecraft:dirt"}
 3,0,9,{Name:"minecraft:dirt"}
 3,0,10,{Name:"minecraft:dirt"}
@@ -721,7 +721,7 @@
 4,8,15,{Name:"minecraft:air"}
 5,0,0,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 5,0,1,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
-5,0,2,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+5,0,2,{Name:"minecraft:dirt"}
 5,0,3,{Name:"minecraft:dirt"}
 5,0,4,{Name:"minecraft:dirt"}
 5,0,5,{Name:"minecraft:dirt"}
@@ -753,7 +753,7 @@
 5,1,15,{Name:"minecraft:dandelion"}
 5,2,0,{Name:"minecraft:air"}
 5,2,1,{Name:"minecraft:air"}
-5,2,2,{Name:"minecraft:air"}
+5,2,2,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"none",south:"low",up:"true",waterlogged:"false",west:"none"}}
 5,2,3,{Name:"minecraft:oak_planks"}
 5,2,4,{Name:"minecraft:air"}
 5,2,5,{Name:"minecraft:air"}
@@ -769,7 +769,7 @@
 5,2,15,{Name:"minecraft:air"}
 5,3,0,{Name:"minecraft:air"}
 5,3,1,{Name:"minecraft:air"}
-5,3,2,{Name:"minecraft:air"}
+5,3,2,{Name:"minecraft:lantern",Properties:{hanging:"false",waterlogged:"false"}}
 5,3,3,{Name:"minecraft:oak_planks"}
 5,3,4,{Name:"minecraft:air"}
 5,3,5,{Name:"minecraft:air"}
@@ -896,7 +896,7 @@
 6,1,14,{Name:"minecraft:air"}
 6,1,15,{Name:"minecraft:grass"}
 6,2,0,{Name:"minecraft:air"}
-6,2,1,{Name:"minecraft:air"}
+6,2,1,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"none",south:"none",up:"true",waterlogged:"false",west:"none"}}
 6,2,2,{Name:"minecraft:air"}
 6,2,3,{Name:"minecraft:oak_planks"}
 6,2,4,{Name:"minecraft:air"}
@@ -1023,7 +1023,7 @@
 7,0,13,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 7,0,14,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 7,0,15,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
-7,1,0,{Name:"minecraft:air"}
+7,1,0,{Name:"minecraft:spruce_stairs",Properties:{facing:"south",half:"bottom",shape:"straight",waterlogged:"false"}}
 7,1,1,{Name:"minecraft:spruce_planks"}
 7,1,2,{Name:"minecraft:spruce_planks"}
 7,1,3,{Name:"minecraft:spruce_planks"}
@@ -1151,8 +1151,8 @@
 7,8,13,{Name:"minecraft:air"}
 7,8,14,{Name:"minecraft:air"}
 7,8,15,{Name:"minecraft:air"}
-8,0,0,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
-8,0,1,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
+8,0,0,{Name:"minecraft:dirt"}
+8,0,1,{Name:"minecraft:dirt"}
 8,0,2,{Name:"minecraft:dirt"}
 8,0,3,{Name:"minecraft:dirt"}
 8,0,4,{Name:"minecraft:dirt"}
@@ -1167,7 +1167,7 @@
 8,0,13,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 8,0,14,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
 8,0,15,{Name:"minecraft:grass_block",Properties:{snowy:"false"}}
-8,1,0,{Name:"minecraft:air"}
+8,1,0,{Name:"minecraft:spruce_stairs",Properties:{facing:"south",half:"bottom",shape:"straight",waterlogged:"false"}}
 8,1,1,{Name:"minecraft:spruce_planks"}
 8,1,2,{Name:"minecraft:spruce_planks"}
 8,1,3,{Name:"minecraft:spruce_planks"}
@@ -1328,7 +1328,7 @@
 9,1,14,{Name:"minecraft:air"}
 9,1,15,{Name:"minecraft:air"}
 9,2,0,{Name:"minecraft:air"}
-9,2,1,{Name:"minecraft:air"}
+9,2,1,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"none",south:"none",up:"true",waterlogged:"false",west:"none"}}
 9,2,2,{Name:"minecraft:air"}
 9,2,3,{Name:"minecraft:oak_planks"}
 9,2,4,{Name:"minecraft:air"}
@@ -1473,7 +1473,7 @@
 10,1,15,{Name:"minecraft:air"}
 10,2,0,{Name:"minecraft:air"}
 10,2,1,{Name:"minecraft:air"}
-10,2,2,{Name:"minecraft:air"}
+10,2,2,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"none",south:"low",up:"true",waterlogged:"false",west:"none"}}
 10,2,3,{Name:"minecraft:oak_planks"}
 10,2,4,{Name:"minecraft:air"}
 10,2,5,{Name:"minecraft:air"}
@@ -1489,7 +1489,7 @@
 10,2,15,{Name:"minecraft:air"}
 10,3,0,{Name:"minecraft:air"}
 10,3,1,{Name:"minecraft:air"}
-10,3,2,{Name:"minecraft:air"}
+10,3,2,{Name:"minecraft:lantern",Properties:{hanging:"false",waterlogged:"false"}}
 10,3,3,{Name:"minecraft:oak_planks"}
 10,3,4,{Name:"minecraft:air"}
 10,3,5,{Name:"minecraft:air"}
