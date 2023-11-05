@@ -1147,9 +1147,9 @@
 6,7,6,{Name:"minecraft:oxidized_cut_copper"}
 6,7,7,{Name:"minecraft:oxidized_cut_copper"}
 6,7,8,{Name:"minecraft:oxidized_cut_copper"}
-6,7,9,{Name:"minecraft:oxidized_cut_copper"}
+6,7,9,{Name:"minecraft:stone_bricks"}
 6,7,10,{Name:"minecraft:stone_bricks"}
-6,7,11,{Name:"minecraft:oxidized_cut_copper"}
+6,7,11,{Name:"minecraft:stone_bricks"}
 6,7,12,{Name:"minecraft:cobblestone"}
 6,7,13,{Name:"minecraft:air"}
 6,7,14,{Name:"minecraft:air"}
@@ -1250,7 +1250,7 @@
 7,3,7,{Name:"minecraft:air"}
 7,3,8,{Name:"minecraft:air"}
 7,3,9,{Name:"minecraft:iron_bars",Properties:{east:"true",north:"false",south:"false",waterlogged:"false",west:"true"}}
-7,3,10,{Name:"minecraft:fire",Properties:{age:"4",east:"false",north:"false",south:"false",up:"false",west:"false"}}
+7,3,10,{Name:"minecraft:fire",Properties:{age:"12",east:"false",north:"false",south:"false",up:"false",west:"false"}}
 7,3,11,{Name:"minecraft:stone_bricks"}
 7,3,12,{Name:"minecraft:air"}
 7,3,13,{Name:"minecraft:air"}
@@ -1318,7 +1318,7 @@
 7,7,7,{Name:"minecraft:oxidized_cut_copper"}
 7,7,8,{Name:"minecraft:oxidized_cut_copper"}
 7,7,9,{Name:"minecraft:stone_bricks"}
-7,7,10,{Name:"minecraft:air"}
+7,7,10,{Name:"minecraft:hay_block",Properties:{axis:"y"}}
 7,7,11,{Name:"minecraft:stone_bricks"}
 7,7,12,{Name:"minecraft:air"}
 7,7,13,{Name:"minecraft:air"}
@@ -1335,7 +1335,7 @@
 7,8,7,{Name:"minecraft:waxed_oxidized_cut_copper_slab",Properties:{type:"bottom",waterlogged:"false"}}
 7,8,8,{Name:"minecraft:waxed_oxidized_cut_copper_slab",Properties:{type:"bottom",waterlogged:"false"}}
 7,8,9,{Name:"minecraft:stone_bricks"}
-7,8,10,{Name:"minecraft:air"}
+7,8,10,{Name:"minecraft:campfire",Properties:{facing:"east",lit:"true",signal_fire:"true",waterlogged:"false"}}
 7,8,11,{Name:"minecraft:stone_bricks"}
 7,8,12,{Name:"minecraft:cobblestone"}
 7,8,13,{Name:"minecraft:air"}
@@ -1420,7 +1420,7 @@
 8,3,7,{Name:"minecraft:air"}
 8,3,8,{Name:"minecraft:air"}
 8,3,9,{Name:"minecraft:iron_bars",Properties:{east:"true",north:"false",south:"false",waterlogged:"false",west:"true"}}
-8,3,10,{Name:"minecraft:fire",Properties:{age:"1",east:"false",north:"false",south:"false",up:"false",west:"false"}}
+8,3,10,{Name:"minecraft:fire",Properties:{age:"10",east:"false",north:"false",south:"false",up:"false",west:"false"}}
 8,3,11,{Name:"minecraft:stone_bricks"}
 8,3,12,{Name:"minecraft:air"}
 8,3,13,{Name:"minecraft:air"}
@@ -1471,7 +1471,7 @@
 8,6,7,{Name:"minecraft:air"}
 8,6,8,{Name:"minecraft:air"}
 8,6,9,{Name:"minecraft:stone_bricks"}
-8,6,10,{Name:"minecraft:air"}
+8,6,10,{Name:"minecraft:hay_block",Properties:{axis:"x"}}
 8,6,11,{Name:"minecraft:stone_bricks"}
 8,6,12,{Name:"minecraft:air"}
 8,6,13,{Name:"minecraft:air"}
@@ -1488,7 +1488,7 @@
 8,7,7,{Name:"minecraft:oxidized_cut_copper"}
 8,7,8,{Name:"minecraft:oxidized_cut_copper"}
 8,7,9,{Name:"minecraft:stone_bricks"}
-8,7,10,{Name:"minecraft:air"}
+8,7,10,{Name:"minecraft:hay_block",Properties:{axis:"y"}}
 8,7,11,{Name:"minecraft:stone_bricks"}
 8,7,12,{Name:"minecraft:air"}
 8,7,13,{Name:"minecraft:air"}
@@ -1505,7 +1505,7 @@
 8,8,7,{Name:"minecraft:waxed_oxidized_cut_copper_slab",Properties:{type:"bottom",waterlogged:"false"}}
 8,8,8,{Name:"minecraft:waxed_oxidized_cut_copper_slab",Properties:{type:"bottom",waterlogged:"false"}}
 8,8,9,{Name:"minecraft:stone_bricks"}
-8,8,10,{Name:"minecraft:air"}
+8,8,10,{Name:"minecraft:campfire",Properties:{facing:"east",lit:"true",signal_fire:"true",waterlogged:"false"}}
 8,8,11,{Name:"minecraft:stone_bricks"}
 8,8,12,{Name:"minecraft:cobblestone"}
 8,8,13,{Name:"minecraft:air"}
@@ -1657,9 +1657,9 @@
 9,7,6,{Name:"minecraft:oxidized_cut_copper"}
 9,7,7,{Name:"minecraft:oxidized_cut_copper"}
 9,7,8,{Name:"minecraft:oxidized_cut_copper"}
-9,7,9,{Name:"minecraft:oxidized_cut_copper"}
+9,7,9,{Name:"minecraft:stone_bricks"}
 9,7,10,{Name:"minecraft:stone_bricks"}
-9,7,11,{Name:"minecraft:oxidized_cut_copper"}
+9,7,11,{Name:"minecraft:stone_bricks"}
 9,7,12,{Name:"minecraft:cobblestone"}
 9,7,13,{Name:"minecraft:air"}
 9,7,14,{Name:"minecraft:air"}
