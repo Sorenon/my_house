@@ -1164,9 +1164,9 @@
 6,8,6,{Name:"minecraft:air"}
 6,8,7,{Name:"minecraft:air"}
 6,8,8,{Name:"minecraft:air"}
-6,8,9,{Name:"minecraft:air"}
+6,8,9,{Name:"minecraft:stone_brick_slab",Properties:{type:"bottom",waterlogged:"false"}}
 6,8,10,{Name:"minecraft:stone_bricks"}
-6,8,11,{Name:"minecraft:air"}
+6,8,11,{Name:"minecraft:stone_brick_slab",Properties:{type:"bottom",waterlogged:"false"}}
 6,8,12,{Name:"minecraft:cobblestone"}
 6,8,13,{Name:"minecraft:air"}
 6,8,14,{Name:"minecraft:air"}
@@ -1182,7 +1182,7 @@
 6,9,7,{Name:"minecraft:air"}
 6,9,8,{Name:"minecraft:air"}
 6,9,9,{Name:"minecraft:air"}
-6,9,10,{Name:"minecraft:air"}
+6,9,10,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 6,9,11,{Name:"minecraft:air"}
 6,9,12,{Name:"minecraft:air"}
 6,9,13,{Name:"minecraft:air"}
@@ -1250,7 +1250,7 @@
 7,3,7,{Name:"minecraft:air"}
 7,3,8,{Name:"minecraft:air"}
 7,3,9,{Name:"minecraft:iron_bars",Properties:{east:"true",north:"false",south:"false",waterlogged:"false",west:"true"}}
-7,3,10,{Name:"minecraft:fire",Properties:{age:"12",east:"false",north:"false",south:"false",up:"false",west:"false"}}
+7,3,10,{Name:"minecraft:fire",Properties:{age:"15",east:"false",north:"false",south:"false",up:"false",west:"false"}}
 7,3,11,{Name:"minecraft:stone_bricks"}
 7,3,12,{Name:"minecraft:air"}
 7,3,13,{Name:"minecraft:air"}
@@ -1351,9 +1351,9 @@
 7,9,6,{Name:"minecraft:air"}
 7,9,7,{Name:"minecraft:air"}
 7,9,8,{Name:"minecraft:air"}
-7,9,9,{Name:"minecraft:air"}
+7,9,9,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 7,9,10,{Name:"minecraft:air"}
-7,9,11,{Name:"minecraft:air"}
+7,9,11,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 7,9,12,{Name:"minecraft:air"}
 7,9,13,{Name:"minecraft:air"}
 7,9,14,{Name:"minecraft:air"}
@@ -1420,7 +1420,7 @@
 8,3,7,{Name:"minecraft:air"}
 8,3,8,{Name:"minecraft:air"}
 8,3,9,{Name:"minecraft:iron_bars",Properties:{east:"true",north:"false",south:"false",waterlogged:"false",west:"true"}}
-8,3,10,{Name:"minecraft:fire",Properties:{age:"10",east:"false",north:"false",south:"false",up:"false",west:"false"}}
+8,3,10,{Name:"minecraft:fire",Properties:{age:"15",east:"false",north:"false",south:"false",up:"false",west:"false"}}
 8,3,11,{Name:"minecraft:stone_bricks"}
 8,3,12,{Name:"minecraft:air"}
 8,3,13,{Name:"minecraft:air"}
@@ -1521,9 +1521,9 @@
 8,9,6,{Name:"minecraft:air"}
 8,9,7,{Name:"minecraft:air"}
 8,9,8,{Name:"minecraft:air"}
-8,9,9,{Name:"minecraft:air"}
+8,9,9,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 8,9,10,{Name:"minecraft:air"}
-8,9,11,{Name:"minecraft:air"}
+8,9,11,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 8,9,12,{Name:"minecraft:air"}
 8,9,13,{Name:"minecraft:air"}
 8,9,14,{Name:"minecraft:air"}
@@ -1674,9 +1674,9 @@
 9,8,6,{Name:"minecraft:air"}
 9,8,7,{Name:"minecraft:air"}
 9,8,8,{Name:"minecraft:air"}
-9,8,9,{Name:"minecraft:air"}
+9,8,9,{Name:"minecraft:stone_brick_slab",Properties:{type:"bottom",waterlogged:"false"}}
 9,8,10,{Name:"minecraft:stone_bricks"}
-9,8,11,{Name:"minecraft:air"}
+9,8,11,{Name:"minecraft:stone_brick_slab",Properties:{type:"bottom",waterlogged:"false"}}
 9,8,12,{Name:"minecraft:cobblestone"}
 9,8,13,{Name:"minecraft:air"}
 9,8,14,{Name:"minecraft:air"}
@@ -1692,7 +1692,7 @@
 9,9,7,{Name:"minecraft:air"}
 9,9,8,{Name:"minecraft:air"}
 9,9,9,{Name:"minecraft:air"}
-9,9,10,{Name:"minecraft:air"}
+9,9,10,{Name:"minecraft:stone_brick_slab",Properties:{type:"double",waterlogged:"false"}}
 9,9,11,{Name:"minecraft:air"}
 9,9,12,{Name:"minecraft:air"}
 9,9,13,{Name:"minecraft:air"}
