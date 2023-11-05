@@ -1571,7 +1571,7 @@
 9,2,5,{Name:"minecraft:air"}
 9,2,6,{Name:"minecraft:air"}
 9,2,7,{Name:"minecraft:air"}
-9,2,8,{Name:"minecraft:air"}
+9,2,8,{Name:"minecraft:gold_block"}
 9,2,9,{Name:"minecraft:stone_bricks"}
 9,2,10,{Name:"minecraft:stone_bricks"}
 9,2,11,{Name:"minecraft:stone_bricks"}
@@ -1740,9 +1740,9 @@
 10,2,4,{Name:"minecraft:crafting_table"}
 10,2,5,{Name:"minecraft:enchanting_table"}
 10,2,6,{Name:"minecraft:dark_oak_stairs",Properties:{facing:"east",half:"top",shape:"straight",waterlogged:"false"}}
-10,2,7,{Name:"minecraft:air"}
-10,2,8,{Name:"minecraft:air"}
-10,2,9,{Name:"minecraft:air"}
+10,2,7,{Name:"minecraft:gold_block"}
+10,2,8,{Name:"minecraft:gold_block"}
+10,2,9,{Name:"minecraft:gold_block"}
 10,2,10,{Name:"minecraft:stone_bricks"}
 10,2,11,{Name:"minecraft:stone_bricks"}
 10,2,12,{Name:"minecraft:air"}
@@ -1758,8 +1758,8 @@
 10,3,5,{Name:"minecraft:air"}
 10,3,6,{Name:"minecraft:light_blue_candle_cake",Properties:{lit:"true"}}
 10,3,7,{Name:"minecraft:air"}
-10,3,8,{Name:"minecraft:air"}
-10,3,9,{Name:"minecraft:air"}
+10,3,8,{Name:"minecraft:gold_block"}
+10,3,9,{Name:"minecraft:gold_block"}
 10,3,10,{Name:"minecraft:stone_bricks"}
 10,3,11,{Name:"minecraft:stone_bricks"}
 10,3,12,{Name:"minecraft:air"}
@@ -1776,7 +1776,7 @@
 10,4,6,{Name:"minecraft:air"}
 10,4,7,{Name:"minecraft:air"}
 10,4,8,{Name:"minecraft:air"}
-10,4,9,{Name:"minecraft:air"}
+10,4,9,{Name:"minecraft:gold_block"}
 10,4,10,{Name:"minecraft:stone_bricks"}
 10,4,11,{Name:"minecraft:stone_bricks"}
 10,4,12,{Name:"minecraft:air"}
