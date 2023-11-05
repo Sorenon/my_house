@@ -1225,7 +1225,7 @@
 6,1,17,{Name:"minecraft:air"}
 6,2,0,{Name:"minecraft:iron_bars",Properties:{east:"false",north:"false",south:"true",waterlogged:"false",west:"false"}}
 6,2,1,{Name:"minecraft:cobblestone_wall",Properties:{east:"none",north:"low",south:"none",up:"true",waterlogged:"false",west:"none"}}
-6,2,2,{Name:"minecraft:anvil",Properties:{facing:"west"}}
+6,2,2,{Name:"minecraft:air"}
 6,2,3,{Name:"minecraft:spruce_log",Properties:{axis:"y"}}
 6,2,4,{Name:"minecraft:air"}
 6,2,5,{Name:"minecraft:air"}
