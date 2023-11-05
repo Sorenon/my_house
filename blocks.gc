@@ -1032,9 +1032,9 @@
 5,2,4,{Name:"minecraft:air"}
 5,2,5,{Name:"minecraft:air"}
 5,2,6,{Name:"minecraft:air"}
-5,2,7,{Name:"minecraft:sniffer_egg",Properties:{hatch:"1"}}
-5,2,8,{Name:"minecraft:sniffer_egg",Properties:{hatch:"1"}}
-5,2,9,{Name:"minecraft:sniffer_egg",Properties:{hatch:"1"}}
+5,2,7,{Name:"minecraft:emerald_block"}
+5,2,8,{Name:"minecraft:emerald_block"}
+5,2,9,{Name:"minecraft:redstone_block"}
 5,2,10,{Name:"minecraft:stone_bricks"}
 5,2,11,{Name:"minecraft:stone_bricks"}
 5,2,12,{Name:"minecraft:air"}
@@ -1050,9 +1050,9 @@
 5,3,4,{Name:"minecraft:air"}
 5,3,5,{Name:"minecraft:air"}
 5,3,6,{Name:"minecraft:air"}
-5,3,7,{Name:"minecraft:air"}
-5,3,8,{Name:"minecraft:sniffer_egg",Properties:{hatch:"1"}}
-5,3,9,{Name:"minecraft:sniffer_egg",Properties:{hatch:"0"}}
+5,3,7,{Name:"minecraft:light_weighted_pressure_plate",Properties:{power:"0"}}
+5,3,8,{Name:"minecraft:emerald_block"}
+5,3,9,{Name:"minecraft:emerald_block"}
 5,3,10,{Name:"minecraft:stone_bricks"}
 5,3,11,{Name:"minecraft:stone_bricks"}
 5,3,12,{Name:"minecraft:air"}
@@ -1070,7 +1070,7 @@
 5,4,6,{Name:"minecraft:air"}
 5,4,7,{Name:"minecraft:air"}
 5,4,8,{Name:"minecraft:air"}
-5,4,9,{Name:"minecraft:air"}
+5,4,9,{Name:"minecraft:redstone_block"}
 5,4,10,{Name:"minecraft:stone_bricks"}
 5,4,11,{Name:"minecraft:stone_bricks"}
 5,4,12,{Name:"minecraft:air"}
@@ -1231,7 +1231,7 @@
 6,2,5,{Name:"minecraft:air"}
 6,2,6,{Name:"minecraft:air"}
 6,2,7,{Name:"minecraft:air"}
-6,2,8,{Name:"minecraft:sniffer_egg",Properties:{hatch:"0"}}
+6,2,8,{Name:"minecraft:redstone_block"}
 6,2,9,{Name:"minecraft:stone_bricks"}
 6,2,10,{Name:"minecraft:stone_bricks"}
 6,2,11,{Name:"minecraft:stone_bricks"}
@@ -1249,7 +1249,7 @@
 6,3,5,{Name:"minecraft:air"}
 6,3,6,{Name:"minecraft:air"}
 6,3,7,{Name:"minecraft:air"}
-6,3,8,{Name:"minecraft:air"}
+6,3,8,{Name:"minecraft:light_weighted_pressure_plate",Properties:{power:"0"}}
 6,3,9,{Name:"minecraft:stone_bricks"}
 6,3,10,{Name:"minecraft:stone_bricks"}
 6,3,11,{Name:"minecraft:stone_bricks"}
