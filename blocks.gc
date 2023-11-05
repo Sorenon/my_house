@@ -1089,7 +1089,7 @@
 6,3,16,{Name:"minecraft:air"}
 6,4,0,{Name:"minecraft:air"}
 6,4,1,{Name:"minecraft:air"}
-6,4,2,{Name:"minecraft:air"}
+6,4,2,{Name:"minecraft:bell",Properties:{attachment:"single_wall",facing:"south",powered:"false"}}
 6,4,3,{Name:"minecraft:spruce_log",Properties:{axis:"y"}}
 6,4,4,{Name:"minecraft:air"}
 6,4,5,{Name:"minecraft:air"}
@@ -1599,7 +1599,7 @@
 9,3,16,{Name:"minecraft:air"}
 9,4,0,{Name:"minecraft:air"}
 9,4,1,{Name:"minecraft:air"}
-9,4,2,{Name:"minecraft:air"}
+9,4,2,{Name:"minecraft:bell",Properties:{attachment:"single_wall",facing:"south",powered:"false"}}
 9,4,3,{Name:"minecraft:spruce_log",Properties:{axis:"y"}}
 9,4,4,{Name:"minecraft:air"}
 9,4,5,{Name:"minecraft:air"}
